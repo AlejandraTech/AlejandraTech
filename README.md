@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 # ¡Hola a todos! 👋
 
-¡Bienvenidos a mi perfil!
+*¡Bienvenidos a mi perfil!*
 
 Soy **@AlejandraTech**, una estudiante apasionada por el desarrollo web con sólidos conocimientos en una variedad de tecnologías. Me encanta la programación y estoy constantemente buscando formas de mejorar mis habilidades y aprender nuevas tecnologías.
 
