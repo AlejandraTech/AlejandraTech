@@ -21,7 +21,7 @@ Soy **@AlejandraTech**, una estudiante apasionada por el desarrollo web con sól
 
 ## Habilidades Técnicas 🚀
 - **Lenguajes de programación:** PHP, JavaScript, Java
-- **Frameworks y bibliotecas:** Angular, Bootstrap, Laravel
+- **Frameworks y bibliotecas:** Angular, Bootstrap, Laravel, Tailwind CSS
 - **Lenguajes de marcado y estilo:** HTML, CSS
 - **Bases de datos:** SQL
 - **Metodología ágil:** Scrum
