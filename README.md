@@ -13,6 +13,8 @@ AlejandraTech/AlejandraTech is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+![banner](https://github.com/AlejandraTech/AlejandraTech/assets/159711246/588ed03c-9571-4059-bf0a-9331023175c9)
+
 # ¡Hola a todos! 👋
 
 *¡Bienvenidos a mi perfil!*
