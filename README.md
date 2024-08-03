@@ -1,4 +1,4 @@
-![imagen-banner](https://github.com/AlejandraTech/AlejandraTech/assets/159711246/556d8957-75ae-4d9a-a217-1bd027690143)
+![banner](https://github.com/user-attachments/assets/1e036e44-81ff-49db-ae25-0a63be91d7ef)
 
 # ¡Hola a todos! 👋
 
