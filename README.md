@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/1e036e44-81ff-49db-ae25-0a63be91d7ef)
+![Banner](https://github.com/user-attachments/assets/335956d7-593f-4622-b898-20747c3bb512)
 
 # ¡Hola a todos! 👋
 
